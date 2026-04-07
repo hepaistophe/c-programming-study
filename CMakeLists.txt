@@ -8,6 +8,5 @@ file(GLOB SRC_FILES "*.c")
 
 foreach(FILE ${SRC_FILES})
     get_filename_component(NAME ${FILE} NAME_WE)
-    add_executable(${NAME} ${FILE}
-            BMI_calc.c)
+    add_executable(${NAME} ${FILE})
 endforeach()
