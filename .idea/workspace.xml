@@ -19,8 +19,14 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
+      <config projectName="c_programming_study" targetName="time_converter" />
+      <config projectName="c_programming_study" targetName="BMI_calc" />
+      <config projectName="c_programming_study" targetName="fibonacci" />
       <config projectName="c_programming_study" targetName="printPrime" />
-      <config projectName="c_programming_study" targetName="main" />
+      <config projectName="c_programming_study" targetName="Change_ball" />
+      <config projectName="c_programming_study" targetName="power_calc" />
+      <config projectName="c_programming_study" targetName="1+nFunc" />
+      <config projectName="c_programming_study" targetName="next3value" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -30,8 +36,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91c3f064-b2dd-4b09-8d3e-573ba0c90944" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/Change_ball.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/noWorkReturn.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/power_calc.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,14 +68,27 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="3C1DM3iJWARaM1x9IDsxqWYm7PD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "CMake 디버그.c_programming_study.executor": "Debug",
+    "CMake 애플리케이션.1+nFunc.executor": "Run",
+    "CMake 애플리케이션.BMI_calc.executor": "Run",
+    "CMake 애플리케이션.Change_ball.executor": "Run",
+    "CMake 애플리케이션.fibonacci.executor": "Run",
     "CMake 애플리케이션.main.executor": "Run",
+    "CMake 애플리케이션.next3value.executor": "Run",
     "CMake 애플리케이션.printPrime.executor": "Run",
+    "CMake 애플리케이션.time_converter.executor": "Run",
     "CMake 애플리케이션.untitled1.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
@@ -83,23 +103,49 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/hongc/CLionProjects/C_quiz_study",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "org.rust.first.attach.projects": "true",
-    "settings.editor.selected.configurable": "File.Encoding",
+    "settings.editor.selected.configurable": "CMakeSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="CMake 애플리케이션.printPrime">
+  <component name="RunManager" selected="CMake 애플리케이션.Change_ball">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_programming_study" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_programming_study" RUN_TARGET_NAME="main">
+    <configuration name="1+nFunc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_programming_study" TARGET_NAME="1+nFunc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_programming_study" RUN_TARGET_NAME="1+nFunc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BMI_calc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_programming_study" TARGET_NAME="BMI_calc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_programming_study" RUN_TARGET_NAME="BMI_calc">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Change_ball" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_programming_study" TARGET_NAME="Change_ball" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_programming_study" RUN_TARGET_NAME="Change_ball">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_programming_study" TARGET_NAME="fibonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_programming_study" RUN_TARGET_NAME="fibonacci">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="next3value" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_programming_study" TARGET_NAME="next3value" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_programming_study" RUN_TARGET_NAME="next3value">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="power_calc" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_programming_study" TARGET_NAME="power_calc" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_programming_study" RUN_TARGET_NAME="power_calc">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -109,9 +155,20 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="time_converter" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c_programming_study" TARGET_NAME="time_converter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c_programming_study" RUN_TARGET_NAME="time_converter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="CMake 애플리케이션.main" />
+      <item itemvalue="CMake 애플리케이션.1+nFunc" />
+      <item itemvalue="CMake 애플리케이션.BMI_calc" />
+      <item itemvalue="CMake 애플리케이션.Change_ball" />
+      <item itemvalue="CMake 애플리케이션.fibonacci" />
+      <item itemvalue="CMake 애플리케이션.next3value" />
+      <item itemvalue="CMake 애플리케이션.power_calc" />
       <item itemvalue="CMake 애플리케이션.printPrime" />
+      <item itemvalue="CMake 애플리케이션.time_converter" />
     </list>
   </component>
   <component name="TaskManager">
@@ -123,6 +180,8 @@
       <updated>1775544131163</updated>
       <workItem from="1775544134814" duration="3413000" />
       <workItem from="1775557500729" duration="2007000" />
+      <workItem from="1775559632930" duration="5345000" />
+      <workItem from="1775732121658" duration="3341000" />
     </task>
     <servers />
   </component>
